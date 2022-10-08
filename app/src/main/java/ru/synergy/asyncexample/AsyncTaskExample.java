@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
 
 public class AsyncTaskExample extends AppCompatActivity {
@@ -18,6 +19,11 @@ public class AsyncTaskExample extends AppCompatActivity {
 
 
     }
+    public void onClick(View v){
+        // TODO
+    }
+
+
 }
 
 

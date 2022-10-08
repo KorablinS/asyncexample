@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">asyncexample</string>
     <string name="go_to_async_task_example">go to Async Task example</string>
+    <string name="start_text">ЗАПУСКАЕМ</string>
 </resources>
